@@ -6,3 +6,11 @@ build/
 .vscode/
 node_modules/
 .env
+__pycache__
+.history
+.hypothesis/
+build/
+.idea/
+.vscode/
+node_modules/
+.env
